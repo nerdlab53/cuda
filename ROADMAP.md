@@ -1,5 +1,3 @@
-# cuda
-
 ### **Week 1-2: GPU Computing & CUDA Fundamentals**
 **Goal**: Understand GPU architecture and write basic CUDA programs.  
 **Resources**:  
