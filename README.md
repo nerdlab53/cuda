@@ -1,6 +1,6 @@
 # Low Level GPU Programming and Distributed Training Tutorials REPO
 
 
-## Roadmap -> ./ROADMAP.md
+### **[ROADMAP](https://github.com/nerdlab53/cuda/blob/main/ROADMAP.md)**
 
-## Resources -> ./RESOURCES.md
+### **[RESOURCES](https://github.com/nerdlab53/cuda/blob/main/RESOURCES.md)**
