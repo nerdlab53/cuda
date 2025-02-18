@@ -112,8 +112,12 @@
 
 - **Newsletters**:  
   - [The Batch](https://www.deeplearning.ai/the-batch/) (AI updates)  
-  - [Unsloth Blog](https://docs.unsloth.ai/blog/) (Company-specific tips)  
-
+  - [Unsloth Blog](https://docs.unsloth.ai/blog/) (Company-specific tips)
+      
+- **For the "No GPU" bros**
+  - [A sample repo](https://github.com/notY0rick/cuda_practice)
+  - [StackOverflow](https://stackoverflow.com/questions/1753735/how-to-run-cuda-without-a-gpu-using-a-software-implementation)
+ 
 ---
 
 ### **Learning Strategy**
