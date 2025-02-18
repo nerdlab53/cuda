@@ -24,7 +24,10 @@
 
 #### **CUDA**
 1. **[NVIDIA CUDA C++ Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)**  
-   - Chapters 3 (Programming Model) & 5 (Memory Hierarchy)  
+   - Chapters 3 (Programming Model) & 5 (Memory Hierarchy)
+   - Easier introduction to CUDA [here](https://developer.nvidia.com/blog/even-easier-introduction-cuda/) (Recommended if don't know the architecture of GPUs, addressing)
+   - [Unified Memory Concept](https://developer.nvidia.com/blog/unified-memory-in-cuda-6/)
+   - [CUDA Refresher : Origins of GPU Programming](https://developer.nvidia.com/blog/cuda-refresher-reviewing-the-origins-of-gpu-computing/)
 
 2. **[CUDA Reductions Master Class](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)**  
    - Optimized patterns for parallel reductions  
