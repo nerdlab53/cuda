@@ -18,7 +18,9 @@
    - Study `functional.py` for 8-bit optimizers  
 
 3. **[PyTorch Quantization Docs](https://pytorch.org/docs/stable/quantization.html)**  
-   - Master `torch.ao.quantization` for custom workflows  
+   - Master `torch.ao.quantization` for custom workflows
+
+4. **[Tim's Videos On Quantization](https://www.youtube.com/watch?v=2ETNONas068)**
 
 #### **CUDA**
 1. **[NVIDIA CUDA C++ Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)**  
